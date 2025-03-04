@@ -1,6 +1,6 @@
 // import java.util.Scanner;
 
-<<<<<<< HEAD
+
 // public class Count_the_numberOf_digits {
 //     public static void main(String[] args){
 //         Scanner input = new Scanner(System.in);
@@ -39,8 +39,8 @@
 // }
 
 
-=======
-public class Count_the_numberOf_digits {
+
+/*public class Count_the_numberOf_digits {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         System.out.println("enter integer number");
@@ -69,6 +69,4 @@ catch(Exception e){
     
 }
 }
-
-
->>>>>>> 2d7ac3d063a48823d2fdf817d666dfd35a14415c
+*/

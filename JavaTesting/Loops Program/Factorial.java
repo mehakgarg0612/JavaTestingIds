@@ -28,7 +28,7 @@
 
 //------------through Try-catch-------------------------
 
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Factorial {
 public static void main(String[] args) {
@@ -41,11 +41,10 @@ public static void main(String[] args) {
             System.out.println("You have enter negative number");
             return;
         }
-<<<<<<< HEAD
         System.out.println("Factorial of a number : "+ multiply);
     }
 }
-=======
+
         if (user > 20) {
             System.out.println("Error: Factorial value is too large to be stored in 'long'. Please enter a number ≤ 20.");
             return;
@@ -62,5 +61,4 @@ public static void main(String[] args) {
      System.out.println("You have enter invalid input. Please enter integer.");
  }
     }
-}
->>>>>>> 2d7ac3d063a48823d2fdf817d666dfd35a14415c
+}*/

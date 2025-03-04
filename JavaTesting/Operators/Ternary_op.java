@@ -13,7 +13,7 @@ class Ternary_op{ // THIS Is
 
     public static void main(String[] args){
         // String name = "Mehak";
-        String name = "Mehak" ? "YES" : "NO"; // no condition in this
-        System.out.println(name instanceof String);
+      //  String name = "Mehak" ? "YES" : "NO"; // no condition in this
+       // System.out.println(name instanceof String);
     }
 }

@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Prime_number_range{
       public static void main(String[] args){
@@ -28,5 +28,5 @@ if(temporary_no == 0){
       // }
 }
       }
-}
+}*/
 

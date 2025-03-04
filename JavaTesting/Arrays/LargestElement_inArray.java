@@ -1,6 +1,6 @@
 
 
-public class LargestElement_inArray {
+/*public class LargestElement_inArray {
     public static void main(String[] args) {
         int[] element = {23,5,12,45};
 
@@ -13,14 +13,14 @@ public class LargestElement_inArray {
         }
         System.out.println("Largest number in array is : " + result);
     }
-}
+}*/
 
 
 import java.util.Scanner;
 
 //public class SumOfLargeArray {
    // public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+       /*  Scanner scanner = new Scanner(System.in);
 
         // Define the number of elements (1000)
         int size = 1000;
@@ -41,4 +41,4 @@ import java.util.Scanner;
 
         scanner.close();
     }
-}
+}*/

@@ -9,9 +9,9 @@ public class GCD {
         System.out.println("Enter second number");
         int number2 = input.nextInt();
 
-        while((number1 && number2)> 0){
+       // while((number1 && number2)> 0){
 
         }
 
     }
-}
+

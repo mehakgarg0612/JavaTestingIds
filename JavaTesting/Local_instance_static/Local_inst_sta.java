@@ -14,9 +14,9 @@ public class Local_inst_sta {
     class Main {
         public static void main(String[] args) {
             //Example obj = new Example();
-            System.out.println(obj.instanceVar); // ✅ Allowed, Output: 0
+           /* System.out.println(obj.instanceVar); // ✅ Allowed, Output: 0
             System.out.println(Example.staticVar); // ✅ Allowed, Output: 0
-            obj.display(); // Output: 5
+            obj.display(); // Output: 5 */
         }
     }
     

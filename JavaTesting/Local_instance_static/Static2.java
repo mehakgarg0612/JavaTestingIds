@@ -1,4 +1,4 @@
-package JavaFolder.Local_instance_static;
+/*package JavaFolder.Local_instance_static;
 
 public class Static2 {
     
@@ -13,4 +13,4 @@ public static void Without_CurlyBraces(){
 
   static int x;
   if(x>0)System.out.println("Positive");
-}
+}*/

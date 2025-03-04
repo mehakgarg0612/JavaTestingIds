@@ -1,4 +1,4 @@
-class Methods2{
+/*class Methods2{
 
     static void Static_Method(){
         System.out.println("I am a Static method, can be call without object");
@@ -19,4 +19,4 @@ public class Methods{
 
         
     }
-}
+}*/

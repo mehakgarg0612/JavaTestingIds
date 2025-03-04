@@ -1,5 +1,5 @@
 
-public class SmallestElement_inArray {
+/*public class SmallestElement_inArray {
     public static void main(String[] args) {
         int[] element = {2,23,4,5,1};
 
@@ -48,3 +48,4 @@ import java.util.Scanner;
         scanner.close(); // Close the scanner
     }
 }
+*/

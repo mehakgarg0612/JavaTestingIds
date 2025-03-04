@@ -1,13 +1,12 @@
-<<<<<<< HEAD
-import java.util.Scanner;
-=======
-import java.util.*;
->>>>>>> 2d7ac3d063a48823d2fdf817d666dfd35a14415c
 
-public class Armstrong {
+// import java.util.Scanner;
+// import java.util.*;
+
+
+/*public class Armstrong {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-<<<<<<< HEAD
+
         System.out.println("Enter integer number");
         int user = input.nextInt();
 
@@ -33,9 +32,9 @@ public class Armstrong {
         
 }
 
-}
-=======
-        System.out.println("Enter an integer number:");
+}*/
+
+     /*   System.out.println("Enter an integer number:");
 
         try {
             int user = input.nextInt();
@@ -68,7 +67,6 @@ public class Armstrong {
                 System.out.println("you have enter an invlaid input");
         }
     }
- }
+ }*/
 
 
->>>>>>> 2d7ac3d063a48823d2fdf817d666dfd35a14415c
