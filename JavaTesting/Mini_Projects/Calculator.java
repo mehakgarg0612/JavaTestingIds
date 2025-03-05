@@ -1,3 +1,5 @@
+package Mini_Projects;
+
 import java.util.Scanner;
 
 public class Calculator {
