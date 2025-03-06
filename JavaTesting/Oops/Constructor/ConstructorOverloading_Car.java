@@ -1,4 +1,4 @@
-package Constructor;
+package Oops.Constructor;
 
 public class ConstructorOverloading_Car {
     String name;
@@ -28,5 +28,37 @@ public class ConstructorOverloading_Car {
         System.out.println(car2.price);
     }
     }
+
+
+/*public class Box {
+
+    int length;
+    int breadth;
+    int height;
+
+    //square
+    Box(int  length , int breadth){
+        this.length = length;
+        this.breadth = breadth;
+        System.out.println("Product of square is : " + (length * breadth));
+    }
+
+    // rectangle
+    Box(int length, int breadth , int height){
+        this.length = length;
+        this.breadth = breadth;
+        this.height = height;
+        System.out.println("Product of rectangle is : " + (length * breadth * height));
+    }
+    public static void main(String[] args) {
+
+        Box box1 = new Box(5,6,7);  //Multiple constructors with different parameter lists.
+        Box box2 = new Box(5,6);
+
+    }
+} */
+
+
+
     
 
