@@ -2,14 +2,15 @@
 
 
 class Animal {
-    void eat() {
-        System.out.println("I am eating food");
+    void name() {
+
+        System.out.println("I am animal class");
     }
 }
 
 class Dog extends Animal {
-    void beat() {
-        System.out.println("I am eating good");
+    void property() {
+        System.out.println("I am inheriting animal class");
     }
 }
 
@@ -18,6 +19,7 @@ public class Single_InheritanceConcept {
     public static void main(String[] args) {
        
         Dog my_object = new Dog();
-        my_object.eat();
+        my_object.name();
+        my_object.property();
     }
 }

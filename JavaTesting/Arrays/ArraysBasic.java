@@ -1,4 +1,4 @@
-// package JavaFolder.Arrays;
+package Arrays;// package JavaFolder.Arrays;
 
 public class ArraysBasic {
     public static void main(String[] args) {
