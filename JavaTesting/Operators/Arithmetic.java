@@ -1,10 +1,11 @@
+package Operators;
 
 public class Arithmetic{
     public static void main(String[] args){
         //AddMulDivSub2Num();
        // EvenOdd();
         //SwapWithout_3Variable();
-        AreaOf_Circle();
+         AreaOf_Circle();
     }
 
 
