@@ -1,4 +1,4 @@
-package Method;
+package Oops.Method;
 
 class Methods2{
 
@@ -7,6 +7,7 @@ class Methods2{
     }
     
     void Instance_method(){
+
         System.out.println("I am a instance method");
     }
 }
