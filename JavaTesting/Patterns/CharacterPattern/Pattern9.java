@@ -1,6 +1,6 @@
 package Patterns.CharacterPattern;
 
-public class Pattern8 {
+public class Pattern9 {
     public static void main(String[] args) {
 
         char row,column,columnK;
@@ -10,10 +10,11 @@ public class Pattern8 {
                 System.out.print(" ");
             }
             for(columnK = 65 ; columnK<=row ; columnK++){
-                System.out.print(columnK);
+                System.out.print(columnK + " ");
             }
             System.out.println();
         }
+
 
         char row1,column1 , columnK1;
         for(row1 = 66; row1<=67; row1++){
@@ -21,7 +22,7 @@ public class Pattern8 {
                 System.out.print(" ");
             }
             for(columnK1 = 65; columnK1 <= row1 ; columnK1++ ){
-                System.out.print(columnK1);
+                System.out.print(columnK1 + " ");
             }
             System.out.println();
         }
