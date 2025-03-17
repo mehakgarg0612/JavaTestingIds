@@ -58,6 +58,22 @@ public class ArraysBasic {
             }
         }
 
+        class Main {
+            public static void main(String[] args) {
+
+                String word = "Progrraming is ww";
+                String[] rev = word.split(" ");
+
+                for(String s : rev)
+                    System.out.println(s);
+
+
+                char[] ch = word.toCharArray();
+                for(char i : ch){
+                    System.out.println(i);
+                }
+            }
+        }
 
 
     }
