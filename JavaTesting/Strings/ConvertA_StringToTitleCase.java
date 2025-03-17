@@ -1,3 +1,5 @@
+package Strings;
+
 import java.util.Scanner;
 
 public class ConvertA_StringToTitleCase { // first letter of each word capitalized

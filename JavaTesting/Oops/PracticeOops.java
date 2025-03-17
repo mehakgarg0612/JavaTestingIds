@@ -1,18 +1,35 @@
 package Oops;
 
-public class PracticeOops {
+import Oops.Abstarction.Practice;
 
-    PracticeOops(){
-        System.out.println("i am default constructor");
+
+interface Car {
+    void start();
+}
+
+interface Car2{
+    void start2();
+}
+
+class Scooter implements Car , Car2{
+   public void start(){
+        System.out.println("Dcdcd");
     }
 
-    PracticeOops(int x){
-        System.out.println("i am not a default  constructor " + x);
+    public void start2(){
+        System.out.println("Dcdcd");
     }
 
+}
+abstract class PracticeOops {
+    public static void main(String[] args){
 
-    public static void main(String[] args) {
-        PracticeOops obj = new PracticeOops(5);
+        Scooter onj = new Scooter();
+        onj.start();
+        onj.start2();
+
 
     }
 }
+
+
