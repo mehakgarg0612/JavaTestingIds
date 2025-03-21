@@ -11,7 +11,14 @@ public class ExceptionHandlinggg {
          System.out.println(c);
         }
      catch(Exception e){
-            System.out.println(e);
+            e.printStackTrace();
+         System.out.println(e);
+         System.out.println(e.toString());
+         System.out.println(e.getMessage());
         }
+
+     finally {
+         System.out.println("hello");
+     }
     }
 }
